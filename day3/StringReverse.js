@@ -4,4 +4,4 @@
 reverseName+=companyName.charAt(i);
  }
  console.log(reverseName);
- console.log(companyName);
+ console.log("normal name"+companyName);
