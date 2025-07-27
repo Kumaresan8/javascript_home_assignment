@@ -5,7 +5,5 @@ reverseName+=companyName.charAt(i);
  }
  console.log(reverseName);
 
- let name1='kumaresan ';
-
  
  
