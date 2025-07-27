@@ -4,4 +4,12 @@
 reverseName+=companyName.charAt(i);
  }
  console.log(reverseName);
- g
+
+ let name1='kumaresan ';
+ let re=[];
+ for(let i=name1.length-1;i>=0;i--){
+re+=name1.charAt(i);
+ }
+ console.log(name1);
+ 
+ 
